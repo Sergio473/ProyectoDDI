@@ -9,6 +9,7 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 ## Integrantes del Proyecto
 - José Israel Saldaña Godínez
 - Sergio Abisay Cervantes Sánchez
+- Juan Antonio Dominguez Rosales
 
 ## Materiales a utlizar 
 |ID|Nombre|Descripcion|Imagen|Costo Unitario|Cantidad
