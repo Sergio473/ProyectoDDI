@@ -57,6 +57,8 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 ## Tablero Tello sprints
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Sprint1.png" >
 
+# Evidencia del Sprint 1
+
 ## Placa PCB
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Placa%20PCB.png" width="800" height="400"/>
 
@@ -69,9 +71,9 @@ https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=Qk
 <img src="" width="800" height="400"/>
 
 # Evidencia del Sprint 1
-## Implementacion de la base de datos Maria DB
-![image]()
 
+## Circuito diseñado
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
 ## Lecturas de en consola de la pantalla ESP32
 
 # Evidencia del Sprint 2
