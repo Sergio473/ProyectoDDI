@@ -61,9 +61,9 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 
 # Evidencia del Sprint 1
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
-<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/C%C3%B3digoGiroscopio.png">
 
 # Evidencia del Sprint 2
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/C%C3%B3digoGiroscopio.png">
 
 ## Placa PCB
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Placa%20PCB.png" width="800" height="400"/>
