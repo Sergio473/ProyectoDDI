@@ -54,6 +54,9 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 ## Prototipo en dibujo
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/PrototipoEnDibujo.jpg" width="300" height="200"/>
 
+## Tablero Tello sprints
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Sprint1.png" >
+
 ## Placa PCB
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Placa%20PCB.png" width="800" height="400"/>
 
