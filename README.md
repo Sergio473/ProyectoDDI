@@ -69,7 +69,7 @@ https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=Qk
 
 # Evidencia del Sprint 1
 ## Implementacion de la base de datos Maria DB
-![image](https://github.com/AlexAlonRo/ProyectoDDI/assets/97119823/0c17200a-72b2-4197-bba4-d1042d0b08b7)
+![image]()
 
 ## Lecturas de en consola de la pantalla ESP32
 
