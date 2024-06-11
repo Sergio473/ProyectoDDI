@@ -56,10 +56,12 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 
 ## Tablero Tello sprints
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Sprint1.png" >
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Sprint1-.png" >
+
 
 # Evidencia del Sprint 1
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
-<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/C%C3%B3digoGiroscopio.png">
 
 # Evidencia del Sprint 2
 
