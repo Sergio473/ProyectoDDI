@@ -58,6 +58,10 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Sprint1.png" >
 
 # Evidencia del Sprint 1
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
+
+# Evidencia del Sprint 2
 
 ## Placa PCB
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Placa%20PCB.png" width="800" height="400"/>
@@ -70,13 +74,9 @@ https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=Qk
 ### Imagen del prototipo 3D
 <img src="" width="800" height="400"/>
 
-# Evidencia del Sprint 1
-
 ## Circuito diseñado
-<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/PrototipoCircuito.png">
 ## Lecturas de en consola de la pantalla ESP32
-
-# Evidencia del Sprint 2
 
 ## Diseño de la carcasa en MDF
 
