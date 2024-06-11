@@ -54,7 +54,7 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 
 
 ## Prototipo en dibujo
-<img src="https://github.com/AlexAlonRo/ProyectoDDI/assets/89074060/78244930-364e-462c-b222-e3e46d67b43e" width="300" height="200"/>
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/PrototipoEnDibujo.jpg" width="300" height="200"/>
 
 ## Placa PCB
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Placa%20PCB.png" width="800" height="400"/>
@@ -65,7 +65,7 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=QkGc5UIvuHH8nqbjJAFoY8htMV52TlNGm9aqxtM-Xoo
 
 ### Imagen del prototipo 3D
-<img src="https://github.com/AlexAlonRo/ProyectoDDI/assets/48026299/fc6d6237-2116-4e25-a74a-f906672e2019" width="800" height="400"/>
+<img src="" width="800" height="400"/>
 
 # Evidencia del Sprint 1
 ## Implementacion de la base de datos Maria DB
