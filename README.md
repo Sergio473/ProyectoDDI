@@ -61,26 +61,23 @@ El objetivo es utilizar la tecnología de la gorra y la aplicación asociada par
 
 # Evidencia del Sprint 1
 # Sensor Temperatura con led
-<img src="">
-<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Prototipe.png">
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/SensorTemperatura.png">
+# Sensor ultrasonico con buzzer
+<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/SensorUltrasonico.png">
 
 # Evidencia del Sprint 2
-
-
-## Placa PCB
-<img src="https://github.com/Sergio473/ProyectoDDI/blob/main/Placa%20PCB.png" width="800" height="400"/>
 
 ## Prototipo en 3D
 
 ### Enlace Tinkercad
-https://www.tinkercad.com/things/hey5mWPRRYn-incredible-rottis/edit?sharecode=QkGc5UIvuHH8nqbjJAFoY8htMV52TlNGm9aqxtM-Xoo
 
 ### Imagen del prototipo 3D
-<img src="" width="800" height="400"/>
 
 ## Circuito diseñado
 <img src="https://github.com/Sergio473/ProyectoDDI/blob/main/PrototipoCircuito.png">
+
 ## Lecturas de en consola de la pantalla ESP32
+
 
 ## Diseño de la carcasa en MDF
 
